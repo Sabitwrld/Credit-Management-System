@@ -152,3 +152,4 @@ D:\visual-studio\CreditManagementSystemApp\bin\Debug\net8.0\Microsoft.AspNetCore
 D:\visual-studio\CreditManagementSystemApp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\visual-studio\CreditManagementSystemApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 D:\visual-studio\CreditManagementSystemApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\visual-studio\CreditManagementSystemApp\obj\Debug\net8.0\CreditManagementSystemApp.sourcelink.json

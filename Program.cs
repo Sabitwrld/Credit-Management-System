@@ -1,3 +1,6 @@
+using CreditManagementSystemApp.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace CreditManagementSystemApp
 {
     public class Program
@@ -9,7 +12,8 @@ namespace CreditManagementSystemApp
             // Add services to the container.  
             builder.Services.AddControllersWithViews();
 
-            builder.Services.AddRazorPages();
+            builder.Services.AddDbContext<AppDbContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
 
             var app = builder.Build();
 
