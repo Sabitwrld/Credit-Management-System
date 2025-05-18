@@ -7,60 +7,16 @@
       "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\viewmodels\\payment\\paymenteditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:viewmodels\\payment\\paymenteditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\viewmodels\\payment\\paymentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:viewmodels\\payment\\paymentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual-studio\\CreditManagementSystemApp\\Migrations\\20250511155646__Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250511155646__Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\models\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:models\\merchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\viewmodels\\payment\\paymentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:viewmodels\\payment\\paymentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,34 +26,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250511155646__Initial.cs",
-              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Migrations\\20250511155646__Initial.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250511155646__Initial.cs",
-              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Migrations\\20250511155646__Initial.cs",
-              "RelativeToolTip": "Migrations\\20250511155646__Initial.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:56:46.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA8AAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:54:15.537Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -108,171 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-11T15:46:17.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:44:56.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Status.cs",
-              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Enums\\Status.cs",
-              "RelativeDocumentMoniker": "Enums\\Status.cs",
-              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Enums\\Status.cs",
-              "RelativeToolTip": "Enums\\Status.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:27:58.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Payment.cs",
               "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "Models\\Payment.cs",
               "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Models\\Payment.cs",
               "RelativeToolTip": "Models\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:24:11.818Z",
+              "WhenOpened": "2025-05-18T11:14:06.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PaymentMethod.cs",
-              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Enums\\PaymentMethod.cs",
-              "RelativeDocumentMoniker": "Enums\\PaymentMethod.cs",
-              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Enums\\PaymentMethod.cs",
-              "RelativeToolTip": "Enums\\PaymentMethod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "PaymentEditVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\ViewModels\\Payment\\PaymentEditVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Payment\\PaymentEditVM.cs",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\ViewModels\\Payment\\PaymentEditVM.cs*",
+              "RelativeToolTip": "ViewModels\\Payment\\PaymentEditVM.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wCEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:27:17.593Z",
+              "WhenOpened": "2025-05-18T11:13:53.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PaymentCreateVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\ViewModels\\Payment\\PaymentCreateVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Payment\\PaymentCreateVM.cs",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\ViewModels\\Payment\\PaymentCreateVM.cs*",
+              "RelativeToolTip": "ViewModels\\Payment\\PaymentCreateVM.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:23:35.727Z",
+              "WhenOpened": "2025-05-18T11:13:53.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "Models\\Person.cs",
-              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Models\\Person.cs",
-              "RelativeToolTip": "Models\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PaymentVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\ViewModels\\Payment\\PaymentVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Payment\\PaymentVM.cs",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\ViewModels\\Payment\\PaymentVM.cs*",
+              "RelativeToolTip": "ViewModels\\Payment\\PaymentVM.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:24:17.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Models\\Employee.cs",
-              "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:23:56.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Models\\Customer.cs",
-              "RelativeToolTip": "Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:23:53.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:23:51.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Merchant.cs",
-              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Models\\Merchant.cs",
-              "RelativeDocumentMoniker": "Models\\Merchant.cs",
-              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Models\\Merchant.cs",
-              "RelativeToolTip": "Models\\Merchant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:23:47.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Branch.cs",
-              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Models\\Branch.cs",
-              "RelativeDocumentMoniker": "Models\\Branch.cs",
-              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Models\\Branch.cs",
-              "RelativeToolTip": "Models\\Branch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:23:43.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Loan.cs",
-              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Models\\Loan.cs",
-              "RelativeDocumentMoniker": "Models\\Loan.cs",
-              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Models\\Loan.cs",
-              "RelativeToolTip": "Models\\Loan.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:21:48.831Z",
+              "WhenOpened": "2025-05-18T11:13:52.509Z",
               "EditorCaption": ""
             }
           ]
