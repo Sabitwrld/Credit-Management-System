@@ -1,0 +1,46 @@
+﻿@model CreditManagementSystemApp.ViewModels.Merchant.MerchantVM
+
+@{
+    ViewData["Title"] = "Merchant Details";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-12" style="max-width: 700px;">
+            <div class="card shadow rounded-4 border-0">
+                <div class="card-header bg-dark text-white text-center py-3 rounded-top-4">
+                    <h3 class="mb-0 fw-bold text-uppercase">
+                        <i class="fas fa-info-circle me-2"></i> Merchant Details
+                    </h3>
+                </div>
+                <div class="card-body p-4">
+                    <dl class="row">
+                        <dt class="col-sm-4 fw-semibold text-secondary">ID:</dt>
+                        <dd class="col-sm-8">@Model.Id</dd>
+
+                        <dt class="col-sm-4 fw-semibold text-secondary">Name:</dt>
+                        <dd class="col-sm-8">@Model.Name</dd>
+
+                        <dt class="col-sm-4 fw-semibold text-secondary">Address:</dt>
+                        <dd class="col-sm-8">@Model.Address</dd>
+
+                        <dt class="col-sm-4 fw-semibold text-secondary">Phone Number:</dt>
+                        <dd class="col-sm-8">@Model.PhoneNumber</dd>
+
+                        <dt class="col-sm-4 fw-semibold text-secondary">Email:</dt>
+                        <dd class="col-sm-8">@Model.Email</dd>
+                    </dl>
+                </div>
+                <div class="card-footer d-flex justify-content-between rounded-bottom-4">
+                    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning btn-md rounded-pill px-4 shadow-sm">
+                        <i class="fas fa-edit me-2"></i> Edit
+                    </a>
+                    <a asp-action="Index" class="btn btn-outline-secondary btn-md rounded-pill px-4 shadow-sm">
+                        <i class="fas fa-arrow-left me-2"></i> Back to List
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

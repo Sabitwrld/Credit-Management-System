@@ -2,19 +2,23 @@
   "Files": [
     {
       "Id": "D:\\visual-studio\\CreditManagementSystemApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CreditManagementSystemApp.bundle.scp.css",
-      "PackagePath": "staticwebassets\\CreditManagementSystemApp.sn7utbvjho.bundle.scp.css"
+      "PackagePath": "staticwebassets\\CreditManagementSystemApp.s9z9uccovl.bundle.scp.css"
     },
     {
-      "Id": "D:\\visual-studio\\CreditManagementSystemApp\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "D:\\visual-studio\\CreditManagementSystemApp\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
       "Id": "D:\\visual-studio\\CreditManagementSystemApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\visual-studio\\CreditManagementSystemApp\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "D:\\visual-studio\\CreditManagementSystemApp\\wwwroot\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "D:\\visual-studio\\CreditManagementSystemApp\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
     },
     {
       "Id": "D:\\visual-studio\\CreditManagementSystemApp\\wwwroot\\lib\\bootstrap\\LICENSE",

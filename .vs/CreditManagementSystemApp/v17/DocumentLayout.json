@@ -1,7 +1,76 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\visual-studio\\CreditManagementSystemApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\areas\\admin\\views\\merchant\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:areas\\admin\\views\\merchant\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\areas\\admin\\views\\merchant\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:areas\\admin\\views\\merchant\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\areas\\admin\\views\\merchant\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:areas\\admin\\views\\merchant\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\areas\\admin\\views\\merchant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:areas\\admin\\views\\merchant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\areas\\admin\\views\\merchant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:areas\\admin\\views\\merchant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\services\\implementations\\merchantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:services\\implementations\\merchantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\areas\\admin\\controllers\\merchantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:areas\\admin\\controllers\\merchantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\profiles\\customprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:profiles\\customprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\services\\interfaces\\imerchantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:services\\interfaces\\imerchantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\repositories\\interfaces\\imerchantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:repositories\\interfaces\\imerchantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\repositories\\implementations\\merchantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:repositories\\implementations\\merchantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|d:\\visual-studio\\creditmanagementsystemapp\\viewmodels\\branch\\brancheditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE58A97E-AAB6-4CEA-847E-84394947ACB3}|CreditManagementSystemApp.csproj|solutionrelative:viewmodels\\branch\\brancheditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +87,212 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Areas\\Admin\\Views\\Merchant\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Merchant\\Delete.cshtml",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Areas\\Admin\\Views\\Merchant\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Merchant\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T06:24:37.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Areas\\Admin\\Views\\Merchant\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Merchant\\Details.cshtml",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Areas\\Admin\\Views\\Merchant\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Merchant\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T06:14:42.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Areas\\Admin\\Views\\Merchant\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Merchant\\Create.cshtml",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Areas\\Admin\\Views\\Merchant\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Merchant\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T15:41:01.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Areas\\Admin\\Views\\Merchant\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Merchant\\Index.cshtml",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Areas\\Admin\\Views\\Merchant\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Merchant\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T15:24:55.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MerchantController.cs",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Areas\\Admin\\Controllers\\MerchantController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\MerchantController.cs",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Areas\\Admin\\Controllers\\MerchantController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\MerchantController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAqwGQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:20:46.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T15:25:36.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MerchantService.cs",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Services\\Implementations\\MerchantService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\MerchantService.cs",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Services\\Implementations\\MerchantService.cs",
+              "RelativeToolTip": "Services\\Implementations\\MerchantService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA4wDEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:39:57.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Areas\\Admin\\Views\\Merchant\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Merchant\\Edit.cshtml",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Areas\\Admin\\Views\\Merchant\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Merchant\\Edit.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T15:50:43.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomProfile.cs",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Profiles\\CustomProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\CustomProfile.cs",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Profiles\\CustomProfile.cs",
+              "RelativeToolTip": "Profiles\\CustomProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:42:40.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:27:05.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:20:25.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMerchantService.cs",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Services\\Interfaces\\IMerchantService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IMerchantService.cs",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Services\\Interfaces\\IMerchantService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IMerchantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:12:30.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:11:18.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMerchantRepository.cs",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Repositories\\Interfaces\\IMerchantRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IMerchantRepository.cs",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Repositories\\Interfaces\\IMerchantRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IMerchantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:11:23.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:53:22.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MerchantRepository.cs",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\Repositories\\Implementations\\MerchantRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\MerchantRepository.cs",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\Repositories\\Implementations\\MerchantRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\MerchantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:53:19.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BranchEditVM.cs",
+              "DocumentMoniker": "D:\\visual-studio\\CreditManagementSystemApp\\ViewModels\\Branch\\BranchEditVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Branch\\BranchEditVM.cs",
+              "ToolTip": "D:\\visual-studio\\CreditManagementSystemApp\\ViewModels\\Branch\\BranchEditVM.cs",
+              "RelativeToolTip": "ViewModels\\Branch\\BranchEditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:03:19.356Z"
             }
           ]
         }
