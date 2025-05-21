@@ -11,10 +11,9 @@ namespace CreditManagementSystemApp.Areas.Admin.Controllers
     public class MerchantController : Controller
     {
         private readonly IMerchantService _merchantService;
-        private readonly IWebHostEnvironment _webHostEnvironment;
         private readonly IMapper _mapper;
 
-        public MerchantController(IMerchantService merchantService, IWebHostEnvironment webHostEnvironment, IMapper mapper)
+        public MerchantController(IMerchantService merchantService, IMapper mapper)
         {
             _merchantService = merchantService;
             _mapper = mapper;

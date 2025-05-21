@@ -18,11 +18,16 @@ namespace CreditManagementSystemApp.Profiles
         public CustomProfile()
         {
             CreateMap<Merchant, MerchantVM>().ReverseMap();
-
             CreateMap<Merchant, MerchantCreateVM>().ReverseMap();
             CreateMap<Merchant, MerchantEditVM>().ReverseMap();
             CreateMap<MerchantVM, MerchantCreateVM>().ReverseMap();
             CreateMap<MerchantVM, MerchantEditVM>().ReverseMap();
+
+            CreateMap<Branch, BranchVM>().ReverseMap();
+            CreateMap<Branch, BranchCreateVM>().ReverseMap();
+            CreateMap<Branch, BranchEditVM>().ReverseMap();
+            CreateMap<BranchVM, BranchCreateVM>().ReverseMap();
+            CreateMap<BranchVM, BranchEditVM>().ReverseMap();
 
         }
     }

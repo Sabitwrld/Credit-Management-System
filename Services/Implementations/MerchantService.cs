@@ -51,7 +51,7 @@ namespace CreditManagementSystemApp.Services.Implementations
         }
 
 
-        public async Task<MerchantVM?> UpdateAsync(MerchantEditVM editVM)
+        public async Task<MerchantVM> UpdateAsync(MerchantEditVM editVM)
         {
             var entity = _mapper.Map<Merchant>(editVM);
 

@@ -25,6 +25,9 @@ namespace CreditManagementSystemApp
             builder.Services.AddScoped<IMerchantRepository, MerchantRepository<Merchant>>();
             builder.Services.AddScoped<IMerchantService, MerchantService>();
 
+            builder.Services.AddScoped<IBranchRepository, BranchRepository<Branch>>();
+            builder.Services.AddScoped<IBranchService, BranchService>();
+
             builder.Services.AddAutoMapper(typeof(CustomProfile).Assembly);
 
             var app = builder.Build();
